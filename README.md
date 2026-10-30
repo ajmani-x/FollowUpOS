@@ -4,6 +4,12 @@
 
 > **Status:** Exported workflow prototype. Both workflows are inactive in the supplied exports. Configuration and testing are required before use.
 
+## Project Demonstration
+
+Watch the complete walkthrough of FollowUpOS, including AI lead classification, workflow orchestration, Gmail automation, and follow-up generation
+
+**[Watch the Demo on YouTube](https://youtu.be/_SkKmkUNYyg)**
+
 ## Architecture
 
 ```mermaid
